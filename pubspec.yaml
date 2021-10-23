@@ -1,0 +1,14 @@
+name: device_sizes
+version: 0.0.1
+description: >-
+  Collects screen sizes and pixel densities for real
+  iPhones, iPads, Google phones, Samsung phones, and
+  more.
+environment:
+  sdk: '>=2.13.0 <3.0.0'
+
+dependencies:
+
+dev_dependencies:
+  test: '>=1.15.0 <2.0.0'
+
